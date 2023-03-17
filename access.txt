@@ -1,0 +1,2 @@
+http://localhost/portfolio/moses%20mhlwana%20portfolio/html/       //////////web
+C:\xampp\htdocs\Portfolio\Moses Mhlwana Portfolio                     /////////folder
